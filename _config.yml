@@ -1,27 +1,28 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
+name: "Lazy Hazy Days"
+title: ":Lazy Hazy Days"
+description: "EDIT"
+logo: 'assets/images/lhd_logo.png'
+favicon: 'assets/images/lhd_logo.png'
+baseurl: 
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+  # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: lazyhazydaysblog@gmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
+  laura:
+    name: Laura Beasley
+    display_name: Laura
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4 
+    email: lazyhazydaysblog@gmail.com
     web: https://www.wowthemes.net/donate/
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    instagram: https://www.instagram.com/lazyhazydaysblog/
+    description: "EDIT DESCRIPTION"
   john:
     name: John
     display_name: John    
