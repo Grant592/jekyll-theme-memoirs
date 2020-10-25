@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: About Me
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/headshot.jpg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
-
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+Hi, I’m Laura. I’m a 30-something Northern girl navigating life as a wife and Mammy while also running my own photography business.  My blog is my space for sharing places, recipes, outfits, stories and generally anything I find interesting.  I’m all about enjoying the simple things in life so I try to reflect that in the things I post. So grab a cup of something delicious, get comfy, have a read and enjoy x
 
