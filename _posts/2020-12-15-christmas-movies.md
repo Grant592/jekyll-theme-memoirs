@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Top alternative Christmas Movies"
+title:  "My Top Alternative Christmas Movies"
 author: laura
 categories: [ Christmas ]
 image: assets/images/christmas_movies.jpg  
